@@ -4,6 +4,8 @@ class Matérias():
         pass
             
     def matematica(self):
-        print('')
-        
-        self.escolha = int(input('Escolha o assunto: '))z
+        print('REGRA DE 3    [ 1 ]')
+        print('CALCULAR AREA [ 2 ]')
+        self.escolha = int(input('Escolha o assunto: '))
+        if self.escolha == 1:
+            print('ok')

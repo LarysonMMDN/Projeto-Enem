@@ -1,1 +1,0 @@
-O Programa one.py é uma maneira que eu optei para poder estudar matemática, que vai ser estender por varias áreas da matemática
